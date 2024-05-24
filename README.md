@@ -1,2 +1,2 @@
 # spotify-clone
-This is a fully responsive spotify clone which can play songs on your demand.
+This fully responsive and revamped Spotify landing page clone can play songs available in the playlists.
